@@ -123,4 +123,4 @@ Tutte le mappe devono avere la stessa dimensione (12×9).
 
 ## Licenza
 
-Da definire.
+Distribuito con licenza **MIT**: vedi il file [LICENSE](LICENSE).
